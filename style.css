@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #7895b2;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #aebdca;
+}
+#projects {
+  background-color: #5c5f65;
+}
+.bg {
+  font-size: 20px;
+  background-color: #fff4f4;
+  text-align: center;
+  color: black;
+}
+.bg a {
+  color: black;
+}
